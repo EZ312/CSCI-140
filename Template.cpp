@@ -1,6 +1,6 @@
 /*  Program:    
-    Author:     
-    Class:      
+    Author: Ean Zheng
+    Class: CSCI 140   
     Date:       
     Description: 
     I certify that the code below is my own work.
@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Author: [Your Name]" << endl;
+    cout << "Author: Ean Zheng" << endl;
 
     return 0;
 }
