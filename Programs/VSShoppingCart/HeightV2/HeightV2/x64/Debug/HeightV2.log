@@ -1,0 +1,5 @@
+﻿  Height.cpp
+  HeightV2.cpp
+  Generating Code...
+C:\GitHubRepos\CSCI-140\Programs\VSShoppingCart\HeightV2\Height.cpp(65,1): warning C4715: 'Height::operator==': not all control paths return a value
+  HeightV2.vcxproj -> C:\GitHubRepos\CSCI-140\Programs\VSShoppingCart\HeightV2\x64\Debug\HeightV2.exe
